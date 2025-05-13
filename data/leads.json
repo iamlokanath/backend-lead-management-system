@@ -5,11 +5,12 @@
     "objectId": 5758,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491567678651",
+    "name": "Mia Müller",
     "act": "07.02.23",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491567678651"
   },
   {
     "date": "08.03.23",
@@ -17,47 +18,51 @@
     "objectId": 5214,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Felix Neumann+491532216017",
+    "name": "Felix Neumann",
     "act": "03.02.22",
     "broker": "TopBroker",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491532216017"
   },
   {
     "date": "25.04.23",
     "leadId": 3,
     "objectId": 5811,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Peter Plag+491796598757",
+    "company": "Müller AG",
+    "name": "Peter Plag",
     "act": "15.10.22",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491796598757"
   },
   {
     "date": "13.04.22",
     "leadId": 4,
     "objectId": 5555,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Lukas Braun+491707738950",
+    "company": "Müller AG",
+    "name": "Lukas Braun",
     "act": "28.05.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491707738950"
   },
   {
     "date": "04.01.22",
     "leadId": 5,
     "objectId": 5750,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Felix Neumann+491676668251",
+    "company": "Müller AG",
+    "name": "Felix Neumann",
     "act": "15.03.23",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491676668251"
   },
   {
     "date": "12.04.23",
@@ -65,11 +70,12 @@
     "objectId": 5890,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Felix Neumann+491588999137",
+    "name": "Felix Neumann",
     "act": "02.03.23",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491588999137"
   },
   {
     "date": "21.08.22",
@@ -77,11 +83,12 @@
     "objectId": 5674,
     "type": "Agent",
     "company": "Klein & Partner",
-    "name": "Anna Schmidt+491751784491",
+    "name": "Anna Schmidt",
     "act": "19.06.22",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491751784491"
   },
   {
     "date": "31.01.23",
@@ -89,11 +96,12 @@
     "objectId": 5424,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Felix Neumann+491637720136",
+    "name": "Felix Neumann",
     "act": "13.03.22",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491637720136"
   },
   {
     "date": "10.07.22",
@@ -101,11 +109,12 @@
     "objectId": 5711,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491787380891",
+    "name": "Anna Schmidt",
     "act": "26.01.23",
     "broker": "TrustCorp",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491787380891"
   },
   {
     "date": "10.03.22",
@@ -113,11 +122,12 @@
     "objectId": 5073,
     "type": "Agent",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491617983285",
+    "name": "Lukas Braun",
     "act": "08.01.23",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491617983285"
   },
   {
     "date": "01.02.23",
@@ -125,11 +135,12 @@
     "objectId": 5334,
     "type": "Representative",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491678839468",
+    "name": "Anna Schmidt",
     "act": "22.04.22",
     "broker": "TopBroker",
     "status": "Pending",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491678839468"
   },
   {
     "date": "02.02.23",
@@ -137,35 +148,38 @@
     "objectId": 5599,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491595859137",
+    "name": "Mia Müller",
     "act": "23.07.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491595859137"
   },
   {
     "date": "27.05.22",
     "leadId": 13,
     "objectId": 5589,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491712462722",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "23.06.22",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491712462722"
   },
   {
     "date": "26.03.22",
     "leadId": 14,
     "objectId": 5054,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Anna Schmidt+491720822689",
+    "company": "Müller AG",
+    "name": "Anna Schmidt",
     "act": "26.01.22",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491720822689"
   },
   {
     "date": "20.04.23",
@@ -173,11 +187,12 @@
     "objectId": 5832,
     "type": "Consultant",
     "company": "Klein & Partner",
-    "name": "Anna Schmidt+491643849926",
+    "name": "Anna Schmidt",
     "act": "27.04.23",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491643849926"
   },
   {
     "date": "27.08.22",
@@ -185,35 +200,38 @@
     "objectId": 5928,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491501866414",
+    "name": "Mia Müller",
     "act": "03.06.22",
     "broker": "Prime",
     "status": "Closed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491501866414"
   },
   {
     "date": "30.06.22",
     "leadId": 17,
     "objectId": 5145,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Peter Plag+491690501733",
+    "company": "Müller AG",
+    "name": "Peter Plag",
     "act": "22.01.23",
     "broker": "TrustCorp",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491690501733"
   },
   {
     "date": "18.01.22",
     "leadId": 18,
     "objectId": 5461,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Felix Neumann+491714633438",
+    "company": "Müller AG",
+    "name": "Felix Neumann",
     "act": "22.10.22",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491714633438"
   },
   {
     "date": "03.12.22",
@@ -221,11 +239,12 @@
     "objectId": 5620,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Anna Schmidt+491694021428",
+    "name": "Anna Schmidt",
     "act": "12.04.23",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491694021428"
   },
   {
     "date": "11.01.23",
@@ -233,11 +252,12 @@
     "objectId": 5583,
     "type": "Representative",
     "company": "Dominik Eisenhardt",
-    "name": "Felix Neumann+491781096104",
+    "name": "Felix Neumann",
     "act": "17.07.22",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491781096104"
   },
   {
     "date": "24.06.22",
@@ -245,11 +265,12 @@
     "objectId": 5342,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491684251081",
+    "name": "Mia Müller",
     "act": "14.08.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491684251081"
   },
   {
     "date": "26.03.23",
@@ -257,11 +278,12 @@
     "objectId": 5679,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491645090271",
+    "name": "Mathias Schiewer",
     "act": "02.01.23",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491645090271"
   },
   {
     "date": "20.05.22",
@@ -269,11 +291,12 @@
     "objectId": 5362,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Peter Plag+491699148830",
+    "name": "Peter Plag",
     "act": "10.12.22",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491699148830"
   },
   {
     "date": "12.04.22",
@@ -281,23 +304,25 @@
     "objectId": 5953,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Felix Neumann+491736131012",
+    "name": "Felix Neumann",
     "act": "05.09.22",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491736131012"
   },
   {
     "date": "22.04.22",
     "leadId": 25,
     "objectId": 5354,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491785355384",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "09.09.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491785355384"
   },
   {
     "date": "12.09.22",
@@ -305,23 +330,25 @@
     "objectId": 5972,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491624611529",
+    "name": "Mia Müller",
     "act": "08.04.23",
     "broker": "Prime",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491624611529"
   },
   {
     "date": "04.01.22",
     "leadId": 27,
     "objectId": 5385,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491533024139",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "04.03.23",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491533024139"
   },
   {
     "date": "23.06.22",
@@ -329,11 +356,12 @@
     "objectId": 5983,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Lukas Braun+491540393120",
+    "name": "Lukas Braun",
     "act": "22.01.22",
     "broker": "Elite",
     "status": "Pending",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491540393120"
   },
   {
     "date": "18.03.23",
@@ -341,11 +369,12 @@
     "objectId": 5029,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491666170236",
+    "name": "Felix Neumann",
     "act": "09.02.22",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491666170236"
   },
   {
     "date": "17.02.23",
@@ -353,11 +382,12 @@
     "objectId": 5421,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491650376431",
+    "name": "Mia Müller",
     "act": "26.04.23",
     "broker": "TrustCorp",
     "status": "Pending",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491650376431"
   },
   {
     "date": "21.01.23",
@@ -365,11 +395,12 @@
     "objectId": 5449,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491676234038",
+    "name": "Mia Müller",
     "act": "04.03.22",
     "broker": "TopBroker",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491676234038"
   },
   {
     "date": "20.02.22",
@@ -377,23 +408,25 @@
     "objectId": 5309,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491640306984",
+    "name": "Mia Müller",
     "act": "01.04.23",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491640306984"
   },
   {
     "date": "09.01.23",
     "leadId": 33,
     "objectId": 5494,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Lukas Braun+491625810785",
+    "company": "Müller AG",
+    "name": "Lukas Braun",
     "act": "11.12.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491625810785"
   },
   {
     "date": "18.09.22",
@@ -401,11 +434,12 @@
     "objectId": 5786,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491557967334",
+    "name": "Lukas Braun",
     "act": "22.04.22",
     "broker": "SecureLine",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491557967334"
   },
   {
     "date": "10.04.22",
@@ -413,11 +447,12 @@
     "objectId": 5977,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mathias Schiewer+491528864455",
+    "name": "Mathias Schiewer",
     "act": "29.07.22",
     "broker": "TrustCorp",
     "status": "Pending",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491528864455"
   },
   {
     "date": "30.03.22",
@@ -425,11 +460,12 @@
     "objectId": 5805,
     "type": "Agent",
     "company": "Klein & Partner",
-    "name": "Peter Plag+491586580194",
+    "name": "Peter Plag",
     "act": "16.04.23",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491586580194"
   },
   {
     "date": "15.05.22",
@@ -437,11 +473,12 @@
     "objectId": 5580,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491731095213",
+    "name": "Mathias Schiewer",
     "act": "05.11.22",
     "broker": "TopBroker",
     "status": "Pending",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491731095213"
   },
   {
     "date": "11.09.22",
@@ -449,11 +486,12 @@
     "objectId": 5516,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491729423077",
+    "name": "Mia Müller",
     "act": "20.11.22",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491729423077"
   },
   {
     "date": "30.04.23",
@@ -461,11 +499,12 @@
     "objectId": 5231,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Anna Schmidt+491533785356",
+    "name": "Anna Schmidt",
     "act": "05.02.22",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491533785356"
   },
   {
     "date": "11.04.22",
@@ -473,23 +512,25 @@
     "objectId": 5313,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491580952904",
+    "name": "Mia Müller",
     "act": "15.06.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491580952904"
   },
   {
     "date": "14.01.22",
     "leadId": 41,
     "objectId": 5193,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Anna Schmidt+491533591742",
+    "company": "Müller AG",
+    "name": "Anna Schmidt",
     "act": "11.06.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491533591742"
   },
   {
     "date": "12.05.22",
@@ -497,11 +538,12 @@
     "objectId": 5999,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491515439832",
+    "name": "Lukas Braun",
     "act": "30.03.23",
     "broker": "TopBroker",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491515439832"
   },
   {
     "date": "09.11.22",
@@ -509,23 +551,25 @@
     "objectId": 5106,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491549203356",
+    "name": "Lukas Braun",
     "act": "28.02.23",
     "broker": "SecureLine",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491549203356"
   },
   {
     "date": "30.10.22",
     "leadId": 44,
     "objectId": 5053,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491637576726",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "22.06.22",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491637576726"
   },
   {
     "date": "03.01.22",
@@ -533,11 +577,12 @@
     "objectId": 5136,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Peter Plag+491504421711",
+    "name": "Peter Plag",
     "act": "23.05.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491504421711"
   },
   {
     "date": "08.04.22",
@@ -545,11 +590,12 @@
     "objectId": 5835,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491593370747",
+    "name": "Lukas Braun",
     "act": "26.02.23",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491593370747"
   },
   {
     "date": "04.02.22",
@@ -557,11 +603,12 @@
     "objectId": 5773,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491631954751",
+    "name": "Mathias Schiewer",
     "act": "12.06.22",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491631954751"
   },
   {
     "date": "15.03.23",
@@ -569,11 +616,12 @@
     "objectId": 5787,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491619227256",
+    "name": "Lukas Braun",
     "act": "09.11.22",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491619227256"
   },
   {
     "date": "04.01.23",
@@ -581,11 +629,12 @@
     "objectId": 5797,
     "type": "Salesperson",
     "company": "Schneider GmbH",
-    "name": "Anna Schmidt+491520022078",
+    "name": "Anna Schmidt",
     "act": "22.10.22",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491520022078"
   },
   {
     "date": "10.10.22",
@@ -593,11 +642,12 @@
     "objectId": 5912,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491587094545",
+    "name": "Felix Neumann",
     "act": "11.08.22",
     "broker": "TopBroker",
     "status": "In Progress",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491587094545"
   },
   {
     "date": "02.02.22",
@@ -605,35 +655,38 @@
     "objectId": 5919,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Anna Schmidt+491645090003",
+    "name": "Anna Schmidt",
     "act": "10.01.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491645090003"
   },
   {
     "date": "03.10.22",
     "leadId": 52,
     "objectId": 5848,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Felix Neumann+491517245847",
+    "company": "Müller AG",
+    "name": "Felix Neumann",
     "act": "10.03.23",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491517245847"
   },
   {
     "date": "26.03.23",
     "leadId": 53,
     "objectId": 5342,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Lukas Braun+491629644818",
+    "company": "Müller AG",
+    "name": "Lukas Braun",
     "act": "14.08.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491629644818"
   },
   {
     "date": "18.03.22",
@@ -641,11 +694,12 @@
     "objectId": 5865,
     "type": "Agent",
     "company": "Dominik Eisenhardt",
-    "name": "Mia M\u00fcller+491716252656",
+    "name": "Mia Müller",
     "act": "09.10.22",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491716252656"
   },
   {
     "date": "20.03.22",
@@ -653,11 +707,12 @@
     "objectId": 5243,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Mathias Schiewer+491615350577",
+    "name": "Mathias Schiewer",
     "act": "06.06.22",
     "broker": "Elite",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491615350577"
   },
   {
     "date": "27.12.22",
@@ -665,11 +720,12 @@
     "objectId": 5269,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Felix Neumann+491604778945",
+    "name": "Felix Neumann",
     "act": "05.10.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491604778945"
   },
   {
     "date": "24.05.22",
@@ -677,11 +733,12 @@
     "objectId": 5936,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Felix Neumann+491783933543",
+    "name": "Felix Neumann",
     "act": "08.05.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491783933543"
   },
   {
     "date": "29.11.22",
@@ -689,11 +746,12 @@
     "objectId": 5672,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Peter Plag+491761281075",
+    "name": "Peter Plag",
     "act": "14.02.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491761281075"
   },
   {
     "date": "28.10.22",
@@ -701,11 +759,12 @@
     "objectId": 5082,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491765431796",
+    "name": "Felix Neumann",
     "act": "08.03.22",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491765431796"
   },
   {
     "date": "24.02.22",
@@ -713,11 +772,12 @@
     "objectId": 5477,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491572147074",
+    "name": "Felix Neumann",
     "act": "20.08.22",
     "broker": "Elite",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491572147074"
   },
   {
     "date": "31.03.23",
@@ -725,11 +785,12 @@
     "objectId": 5966,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491720315961",
+    "name": "Lukas Braun",
     "act": "09.01.23",
     "broker": "SecureLine",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491720315961"
   },
   {
     "date": "25.04.22",
@@ -737,11 +798,12 @@
     "objectId": 5138,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491613346741",
+    "name": "Mia Müller",
     "act": "26.11.22",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491613346741"
   },
   {
     "date": "13.03.22",
@@ -749,23 +811,25 @@
     "objectId": 5573,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491712148024",
+    "name": "Anna Schmidt",
     "act": "08.12.22",
     "broker": "SecureLine",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491712148024"
   },
   {
     "date": "02.06.22",
     "leadId": 64,
     "objectId": 5234,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Lukas Braun+491631225892",
+    "company": "Müller AG",
+    "name": "Lukas Braun",
     "act": "22.02.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491631225892"
   },
   {
     "date": "14.12.22",
@@ -773,11 +837,12 @@
     "objectId": 5920,
     "type": "Salesperson",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491588013617",
+    "name": "Lukas Braun",
     "act": "24.05.22",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491588013617"
   },
   {
     "date": "08.01.22",
@@ -785,23 +850,25 @@
     "objectId": 5871,
     "type": "Agent",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491695829977",
+    "name": "Anna Schmidt",
     "act": "31.03.23",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491695829977"
   },
   {
     "date": "25.04.22",
     "leadId": 67,
     "objectId": 5765,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Lukas Braun+491582303188",
+    "company": "Müller AG",
+    "name": "Lukas Braun",
     "act": "05.08.22",
     "broker": "Prime",
     "status": "Closed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491582303188"
   },
   {
     "date": "15.10.22",
@@ -809,11 +876,12 @@
     "objectId": 5665,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Felix Neumann+491712994027",
+    "name": "Felix Neumann",
     "act": "13.08.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491712994027"
   },
   {
     "date": "10.09.22",
@@ -821,11 +889,12 @@
     "objectId": 5417,
     "type": "Representative",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491739695685",
+    "name": "Anna Schmidt",
     "act": "30.08.22",
     "broker": "Prime",
     "status": "In Progress",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491739695685"
   },
   {
     "date": "12.10.22",
@@ -833,23 +902,25 @@
     "objectId": 5323,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491766262307",
+    "name": "Mia Müller",
     "act": "05.11.22",
     "broker": "TrustCorp",
     "status": "In Progress",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491766262307"
   },
   {
     "date": "20.05.22",
     "leadId": 71,
     "objectId": 5740,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Felix Neumann+491556288876",
+    "company": "Müller AG",
+    "name": "Felix Neumann",
     "act": "09.01.22",
     "broker": "Elite",
     "status": "Pending",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491556288876"
   },
   {
     "date": "02.10.22",
@@ -857,11 +928,12 @@
     "objectId": 5161,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491639356996",
+    "name": "Mia Müller",
     "act": "07.08.22",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491639356996"
   },
   {
     "date": "30.12.22",
@@ -869,23 +941,25 @@
     "objectId": 5392,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491722504866",
+    "name": "Mia Müller",
     "act": "14.09.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491722504866"
   },
   {
     "date": "06.09.22",
     "leadId": 74,
     "objectId": 5402,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491688426509",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "18.02.23",
     "broker": "TopBroker",
     "status": "Pending",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491688426509"
   },
   {
     "date": "27.12.22",
@@ -893,23 +967,25 @@
     "objectId": 5667,
     "type": "Salesperson",
     "company": "Schneider GmbH",
-    "name": "Peter Plag+491687579548",
+    "name": "Peter Plag",
     "act": "18.02.23",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491687579548"
   },
   {
     "date": "19.06.22",
     "leadId": 76,
     "objectId": 5623,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Anna Schmidt+491732071784",
+    "company": "Müller AG",
+    "name": "Anna Schmidt",
     "act": "01.06.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491732071784"
   },
   {
     "date": "13.01.22",
@@ -917,23 +993,25 @@
     "objectId": 5586,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Peter Plag+491533417413",
+    "name": "Peter Plag",
     "act": "07.05.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491533417413"
   },
   {
     "date": "12.12.22",
     "leadId": 78,
     "objectId": 5076,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Anna Schmidt+491547184749",
+    "company": "Müller AG",
+    "name": "Anna Schmidt",
     "act": "28.06.22",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491547184749"
   },
   {
     "date": "16.11.22",
@@ -941,11 +1019,12 @@
     "objectId": 5764,
     "type": "Representative",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491605790515",
+    "name": "Anna Schmidt",
     "act": "15.01.22",
     "broker": "Elite",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491605790515"
   },
   {
     "date": "04.05.22",
@@ -953,35 +1032,38 @@
     "objectId": 5644,
     "type": "Agent",
     "company": "Dominik Eisenhardt",
-    "name": "Mathias Schiewer+491776453947",
+    "name": "Mathias Schiewer",
     "act": "07.03.23",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491776453947"
   },
   {
     "date": "19.11.22",
     "leadId": 81,
     "objectId": 5482,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Peter Plag+491587947430",
+    "company": "Müller AG",
+    "name": "Peter Plag",
     "act": "17.04.22",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491587947430"
   },
   {
     "date": "11.03.23",
     "leadId": 82,
     "objectId": 5743,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Anna Schmidt+491736307745",
+    "company": "Müller AG",
+    "name": "Anna Schmidt",
     "act": "16.03.23",
     "broker": "Elite",
     "status": "Pending",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491736307745"
   },
   {
     "date": "16.04.22",
@@ -989,11 +1071,12 @@
     "objectId": 5238,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491522942692",
+    "name": "Mia Müller",
     "act": "27.01.23",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491522942692"
   },
   {
     "date": "20.07.22",
@@ -1001,11 +1084,12 @@
     "objectId": 5889,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491510781151",
+    "name": "Mia Müller",
     "act": "07.03.22",
     "broker": "SecureLine",
     "status": "Pending",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491510781151"
   },
   {
     "date": "02.03.23",
@@ -1013,11 +1097,12 @@
     "objectId": 5474,
     "type": "Consultant",
     "company": "Klein & Partner",
-    "name": "Felix Neumann+491659702165",
+    "name": "Felix Neumann",
     "act": "21.10.22",
     "broker": "SecureLine",
     "status": "Pending",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491659702165"
   },
   {
     "date": "09.06.22",
@@ -1025,11 +1110,12 @@
     "objectId": 5181,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Peter Plag+491631397754",
+    "name": "Peter Plag",
     "act": "15.05.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491631397754"
   },
   {
     "date": "04.04.22",
@@ -1037,11 +1123,12 @@
     "objectId": 5050,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491624666013",
+    "name": "Mia Müller",
     "act": "01.01.23",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491624666013"
   },
   {
     "date": "07.03.23",
@@ -1049,11 +1136,12 @@
     "objectId": 5241,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Mathias Schiewer+491717776370",
+    "name": "Mathias Schiewer",
     "act": "11.06.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491717776370"
   },
   {
     "date": "18.05.22",
@@ -1061,11 +1149,12 @@
     "objectId": 5199,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491601354722",
+    "name": "Mia Müller",
     "act": "22.06.22",
     "broker": "SecureLine",
     "status": "Closed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491601354722"
   },
   {
     "date": "07.05.22",
@@ -1073,23 +1162,25 @@
     "objectId": 5004,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491684038432",
+    "name": "Mathias Schiewer",
     "act": "23.06.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491684038432"
   },
   {
     "date": "01.04.23",
     "leadId": 91,
     "objectId": 5110,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Anna Schmidt+491709886760",
+    "company": "Müller AG",
+    "name": "Anna Schmidt",
     "act": "04.11.22",
     "broker": "Elite",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491709886760"
   },
   {
     "date": "12.04.22",
@@ -1097,23 +1188,25 @@
     "objectId": 5521,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491733355741",
+    "name": "Mia Müller",
     "act": "22.03.22",
     "broker": "SecureLine",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491733355741"
   },
   {
     "date": "20.06.22",
     "leadId": 93,
     "objectId": 5340,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Peter Plag+491572185139",
+    "company": "Müller AG",
+    "name": "Peter Plag",
     "act": "24.08.22",
     "broker": "SecureLine",
     "status": "Pending",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491572185139"
   },
   {
     "date": "08.10.22",
@@ -1121,23 +1214,25 @@
     "objectId": 5547,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Anna Schmidt+491677445970",
+    "name": "Anna Schmidt",
     "act": "14.04.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491677445970"
   },
   {
     "date": "23.12.22",
     "leadId": 95,
     "objectId": 5530,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Peter Plag+491517951986",
+    "company": "Müller AG",
+    "name": "Peter Plag",
     "act": "30.04.23",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491517951986"
   },
   {
     "date": "31.01.23",
@@ -1145,11 +1240,12 @@
     "objectId": 5724,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Anna Schmidt+491657183192",
+    "name": "Anna Schmidt",
     "act": "04.01.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491657183192"
   },
   {
     "date": "01.04.23",
@@ -1157,11 +1253,12 @@
     "objectId": 5912,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Felix Neumann+491781132565",
+    "name": "Felix Neumann",
     "act": "03.02.22",
     "broker": "Elite",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491781132565"
   },
   {
     "date": "22.01.22",
@@ -1169,11 +1266,12 @@
     "objectId": 5485,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Anna Schmidt+491651118667",
+    "name": "Anna Schmidt",
     "act": "11.12.22",
     "broker": "SecureLine",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491651118667"
   },
   {
     "date": "30.07.22",
@@ -1181,23 +1279,25 @@
     "objectId": 5630,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Anna Schmidt+491568894881",
+    "name": "Anna Schmidt",
     "act": "12.04.23",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491568894881"
   },
   {
     "date": "15.04.23",
     "leadId": 100,
     "objectId": 5298,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491680313505",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "23.08.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491680313505"
   },
   {
     "date": "09.11.22",
@@ -1205,11 +1305,12 @@
     "objectId": 5351,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Mia M\u00fcller+491774226774",
+    "name": "Mia Müller",
     "act": "20.03.22",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491774226774"
   },
   {
     "date": "20.08.22",
@@ -1217,11 +1318,12 @@
     "objectId": 5599,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Anna Schmidt+491799384914",
+    "name": "Anna Schmidt",
     "act": "25.11.22",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491799384914"
   },
   {
     "date": "26.08.22",
@@ -1229,11 +1331,12 @@
     "objectId": 5479,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491670639901",
+    "name": "Mia Müller",
     "act": "13.10.22",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491670639901"
   },
   {
     "date": "14.06.22",
@@ -1241,11 +1344,12 @@
     "objectId": 5580,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491625719107",
+    "name": "Lukas Braun",
     "act": "16.09.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491625719107"
   },
   {
     "date": "10.09.22",
@@ -1253,11 +1357,12 @@
     "objectId": 5750,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491725084960",
+    "name": "Felix Neumann",
     "act": "25.03.23",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491725084960"
   },
   {
     "date": "22.03.22",
@@ -1265,11 +1370,12 @@
     "objectId": 5721,
     "type": "Consultant",
     "company": "Klein & Partner",
-    "name": "Anna Schmidt+491516514402",
+    "name": "Anna Schmidt",
     "act": "08.12.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491516514402"
   },
   {
     "date": "26.01.23",
@@ -1277,11 +1383,12 @@
     "objectId": 5548,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Mathias Schiewer+491767803893",
+    "name": "Mathias Schiewer",
     "act": "11.10.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491767803893"
   },
   {
     "date": "20.08.22",
@@ -1289,11 +1396,12 @@
     "objectId": 5162,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Anna Schmidt+491507356660",
+    "name": "Anna Schmidt",
     "act": "18.04.22",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491507356660"
   },
   {
     "date": "20.01.23",
@@ -1301,11 +1409,12 @@
     "objectId": 5541,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Peter Plag+491640391595",
+    "name": "Peter Plag",
     "act": "11.03.23",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491640391595"
   },
   {
     "date": "05.10.22",
@@ -1313,11 +1422,12 @@
     "objectId": 5215,
     "type": "Agent",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491779638974",
+    "name": "Lukas Braun",
     "act": "15.09.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491779638974"
   },
   {
     "date": "23.10.22",
@@ -1325,11 +1435,12 @@
     "objectId": 5592,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491538431395",
+    "name": "Mia Müller",
     "act": "12.01.23",
     "broker": "Prime",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491538431395"
   },
   {
     "date": "17.03.22",
@@ -1337,23 +1448,25 @@
     "objectId": 5482,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491716898195",
+    "name": "Lukas Braun",
     "act": "03.11.22",
     "broker": "Elite",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491716898195"
   },
   {
     "date": "15.07.22",
     "leadId": 113,
     "objectId": 5439,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Lukas Braun+491683770027",
+    "company": "Müller AG",
+    "name": "Lukas Braun",
     "act": "02.07.22",
     "broker": "Elite",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491683770027"
   },
   {
     "date": "13.04.22",
@@ -1361,11 +1474,12 @@
     "objectId": 5157,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491574337223",
+    "name": "Mia Müller",
     "act": "14.07.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491574337223"
   },
   {
     "date": "29.06.22",
@@ -1373,11 +1487,12 @@
     "objectId": 5537,
     "type": "Agent",
     "company": "Dominik Eisenhardt",
-    "name": "Mathias Schiewer+491512935178",
+    "name": "Mathias Schiewer",
     "act": "19.07.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491512935178"
   },
   {
     "date": "06.04.22",
@@ -1385,11 +1500,12 @@
     "objectId": 5817,
     "type": "Consultant",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491762843557",
+    "name": "Lukas Braun",
     "act": "17.03.23",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491762843557"
   },
   {
     "date": "30.10.22",
@@ -1397,11 +1513,12 @@
     "objectId": 5495,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491622917659",
+    "name": "Mia Müller",
     "act": "04.08.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491622917659"
   },
   {
     "date": "27.01.23",
@@ -1409,11 +1526,12 @@
     "objectId": 5786,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Anna Schmidt+491765260001",
+    "name": "Anna Schmidt",
     "act": "29.06.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491765260001"
   },
   {
     "date": "06.01.22",
@@ -1421,11 +1539,12 @@
     "objectId": 5446,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491530311170",
+    "name": "Mia Müller",
     "act": "11.03.22",
     "broker": "SecureLine",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491530311170"
   },
   {
     "date": "06.12.22",
@@ -1433,11 +1552,12 @@
     "objectId": 5295,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Anna Schmidt+491668456543",
+    "name": "Anna Schmidt",
     "act": "30.10.22",
     "broker": "TrustCorp",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491668456543"
   },
   {
     "date": "16.04.22",
@@ -1445,23 +1565,25 @@
     "objectId": 5199,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Felix Neumann+491614579050",
+    "name": "Felix Neumann",
     "act": "23.01.22",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491614579050"
   },
   {
     "date": "07.03.22",
     "leadId": 122,
     "objectId": 5082,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491624515335",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "16.09.22",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491624515335"
   },
   {
     "date": "07.12.22",
@@ -1469,11 +1591,12 @@
     "objectId": 5190,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Lukas Braun+491759415351",
+    "name": "Lukas Braun",
     "act": "19.09.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491759415351"
   },
   {
     "date": "08.10.22",
@@ -1481,11 +1604,12 @@
     "objectId": 5161,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491735019806",
+    "name": "Mia Müller",
     "act": "03.11.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491735019806"
   },
   {
     "date": "18.11.22",
@@ -1493,11 +1617,12 @@
     "objectId": 5369,
     "type": "Agent",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491648745802",
+    "name": "Anna Schmidt",
     "act": "28.03.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491648745802"
   },
   {
     "date": "07.04.22",
@@ -1505,11 +1630,12 @@
     "objectId": 5442,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Anna Schmidt+491541129511",
+    "name": "Anna Schmidt",
     "act": "14.06.22",
     "broker": "SecureLine",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491541129511"
   },
   {
     "date": "11.03.23",
@@ -1517,11 +1643,12 @@
     "objectId": 5388,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491628360078",
+    "name": "Mia Müller",
     "act": "21.02.22",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491628360078"
   },
   {
     "date": "18.07.22",
@@ -1529,11 +1656,12 @@
     "objectId": 5555,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Mathias Schiewer+491600528055",
+    "name": "Mathias Schiewer",
     "act": "24.02.22",
     "broker": "Elite",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491600528055"
   },
   {
     "date": "25.02.22",
@@ -1541,11 +1669,12 @@
     "objectId": 5609,
     "type": "Agent",
     "company": "Klein & Partner",
-    "name": "Mathias Schiewer+491720285488",
+    "name": "Mathias Schiewer",
     "act": "30.03.22",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491720285488"
   },
   {
     "date": "15.01.22",
@@ -1553,83 +1682,90 @@
     "objectId": 5038,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Lukas Braun+491613584762",
+    "name": "Lukas Braun",
     "act": "20.10.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491613584762"
   },
   {
     "date": "26.01.22",
     "leadId": 131,
     "objectId": 5474,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491783467263",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "15.04.22",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491783467263"
   },
   {
     "date": "26.03.23",
     "leadId": 132,
     "objectId": 5463,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491651669379",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "04.04.22",
     "broker": "Elite",
     "status": "Pending",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491651669379"
   },
   {
     "date": "11.08.22",
     "leadId": 133,
     "objectId": 5717,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491550761467",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "24.05.22",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491550761467"
   },
   {
     "date": "31.10.22",
     "leadId": 134,
     "objectId": 5592,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Anna Schmidt+491525669503",
+    "company": "Müller AG",
+    "name": "Anna Schmidt",
     "act": "19.02.22",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491525669503"
   },
   {
     "date": "20.12.22",
     "leadId": 135,
     "objectId": 5168,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491598017854",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "10.03.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491598017854"
   },
   {
     "date": "04.02.22",
     "leadId": 136,
     "objectId": 5529,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491662399163",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "05.05.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491662399163"
   },
   {
     "date": "28.01.23",
@@ -1637,11 +1773,12 @@
     "objectId": 5224,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Anna Schmidt+491650844404",
+    "name": "Anna Schmidt",
     "act": "02.11.22",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491650844404"
   },
   {
     "date": "21.10.22",
@@ -1649,23 +1786,25 @@
     "objectId": 5875,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491658954315",
+    "name": "Mia Müller",
     "act": "15.04.23",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491658954315"
   },
   {
     "date": "20.04.23",
     "leadId": 139,
     "objectId": 5488,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491532770639",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "21.04.22",
     "broker": "SecureLine",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491532770639"
   },
   {
     "date": "01.07.22",
@@ -1673,11 +1812,12 @@
     "objectId": 5131,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491542613013",
+    "name": "Felix Neumann",
     "act": "28.03.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491542613013"
   },
   {
     "date": "12.08.22",
@@ -1685,11 +1825,12 @@
     "objectId": 5370,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491703216535",
+    "name": "Mia Müller",
     "act": "13.03.22",
     "broker": "SecureLine",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491703216535"
   },
   {
     "date": "20.02.22",
@@ -1697,11 +1838,12 @@
     "objectId": 5689,
     "type": "Salesperson",
     "company": "Schneider GmbH",
-    "name": "Mathias Schiewer+491727367452",
+    "name": "Mathias Schiewer",
     "act": "10.02.23",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491727367452"
   },
   {
     "date": "22.04.22",
@@ -1709,11 +1851,12 @@
     "objectId": 5438,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491710792607",
+    "name": "Mathias Schiewer",
     "act": "05.02.22",
     "broker": "TrustCorp",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491710792607"
   },
   {
     "date": "28.09.22",
@@ -1721,11 +1864,12 @@
     "objectId": 5787,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Anna Schmidt+491544510249",
+    "name": "Anna Schmidt",
     "act": "17.01.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491544510249"
   },
   {
     "date": "20.05.22",
@@ -1733,11 +1877,12 @@
     "objectId": 5997,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491671746722",
+    "name": "Mathias Schiewer",
     "act": "11.04.23",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491671746722"
   },
   {
     "date": "09.03.23",
@@ -1745,11 +1890,12 @@
     "objectId": 5831,
     "type": "Salesperson",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491658375471",
+    "name": "Lukas Braun",
     "act": "12.06.22",
     "broker": "Prime",
     "status": "In Progress",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491658375471"
   },
   {
     "date": "23.06.22",
@@ -1757,11 +1903,12 @@
     "objectId": 5833,
     "type": "Consultant",
     "company": "Klein & Partner",
-    "name": "Felix Neumann+491552046917",
+    "name": "Felix Neumann",
     "act": "24.07.22",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491552046917"
   },
   {
     "date": "06.06.22",
@@ -1769,11 +1916,12 @@
     "objectId": 5602,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491606919419",
+    "name": "Lukas Braun",
     "act": "05.07.22",
     "broker": "SecureLine",
     "status": "Pending",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491606919419"
   },
   {
     "date": "20.03.23",
@@ -1781,11 +1929,12 @@
     "objectId": 5641,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Lukas Braun+491673256586",
+    "name": "Lukas Braun",
     "act": "28.03.22",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491673256586"
   },
   {
     "date": "30.07.22",
@@ -1793,11 +1942,12 @@
     "objectId": 5057,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Felix Neumann+491622170090",
+    "name": "Felix Neumann",
     "act": "16.05.22",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491622170090"
   },
   {
     "date": "05.04.22",
@@ -1805,11 +1955,12 @@
     "objectId": 5634,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Mia M\u00fcller+491687430657",
+    "name": "Mia Müller",
     "act": "12.02.23",
     "broker": "TrustCorp",
     "status": "In Progress",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491687430657"
   },
   {
     "date": "23.11.22",
@@ -1817,11 +1968,12 @@
     "objectId": 5872,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Lukas Braun+491550840868",
+    "name": "Lukas Braun",
     "act": "28.03.23",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491550840868"
   },
   {
     "date": "23.12.22",
@@ -1829,11 +1981,12 @@
     "objectId": 5058,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Peter Plag+491697326500",
+    "name": "Peter Plag",
     "act": "31.08.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491697326500"
   },
   {
     "date": "16.12.22",
@@ -1841,11 +1994,12 @@
     "objectId": 5248,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491583843902",
+    "name": "Mia Müller",
     "act": "23.06.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491583843902"
   },
   {
     "date": "28.02.23",
@@ -1853,11 +2007,12 @@
     "objectId": 5026,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Mathias Schiewer+491572939440",
+    "name": "Mathias Schiewer",
     "act": "20.03.23",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491572939440"
   },
   {
     "date": "29.01.22",
@@ -1865,11 +2020,12 @@
     "objectId": 5001,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Mia M\u00fcller+491777116192",
+    "name": "Mia Müller",
     "act": "05.12.22",
     "broker": "TrustCorp",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491777116192"
   },
   {
     "date": "07.01.23",
@@ -1877,11 +2033,12 @@
     "objectId": 5565,
     "type": "Representative",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491521156197",
+    "name": "Mia Müller",
     "act": "20.01.23",
     "broker": "TrustCorp",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491521156197"
   },
   {
     "date": "22.03.22",
@@ -1889,11 +2046,12 @@
     "objectId": 5558,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Mia M\u00fcller+491682990653",
+    "name": "Mia Müller",
     "act": "14.07.22",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491682990653"
   },
   {
     "date": "08.02.22",
@@ -1901,23 +2059,25 @@
     "objectId": 5830,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491753877874",
+    "name": "Mathias Schiewer",
     "act": "22.04.22",
     "broker": "TrustCorp",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491753877874"
   },
   {
     "date": "04.03.22",
     "leadId": 160,
     "objectId": 5057,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491674941733",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "08.02.22",
     "broker": "TopBroker",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491674941733"
   },
   {
     "date": "26.02.23",
@@ -1925,11 +2085,12 @@
     "objectId": 5253,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491755470815",
+    "name": "Mathias Schiewer",
     "act": "30.10.22",
     "broker": "Elite",
     "status": "Pending",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491755470815"
   },
   {
     "date": "26.02.23",
@@ -1937,11 +2098,12 @@
     "objectId": 5715,
     "type": "Agent",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491510578795",
+    "name": "Felix Neumann",
     "act": "30.09.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491510578795"
   },
   {
     "date": "20.01.23",
@@ -1949,11 +2111,12 @@
     "objectId": 5463,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Felix Neumann+491585571440",
+    "name": "Felix Neumann",
     "act": "28.04.23",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491585571440"
   },
   {
     "date": "18.05.22",
@@ -1961,11 +2124,12 @@
     "objectId": 5655,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491664636846",
+    "name": "Mia Müller",
     "act": "31.03.22",
     "broker": "TrustCorp",
     "status": "Closed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491664636846"
   },
   {
     "date": "06.08.22",
@@ -1973,23 +2137,25 @@
     "objectId": 5522,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Anna Schmidt+491666991145",
+    "name": "Anna Schmidt",
     "act": "18.07.22",
     "broker": "TrustCorp",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491666991145"
   },
   {
     "date": "08.10.22",
     "leadId": 166,
     "objectId": 5694,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Mia M\u00fcller+491508854041",
+    "company": "Müller AG",
+    "name": "Mia Müller",
     "act": "26.02.22",
     "broker": "SecureLine",
     "status": "Pending",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491508854041"
   },
   {
     "date": "06.06.22",
@@ -1997,11 +2163,12 @@
     "objectId": 5462,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Anna Schmidt+491737736409",
+    "name": "Anna Schmidt",
     "act": "05.03.22",
     "broker": "TopBroker",
     "status": "Pending",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491737736409"
   },
   {
     "date": "22.05.22",
@@ -2009,23 +2176,25 @@
     "objectId": 5964,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491588994483",
+    "name": "Lukas Braun",
     "act": "21.02.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491588994483"
   },
   {
     "date": "15.12.22",
     "leadId": 169,
     "objectId": 5634,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Felix Neumann+491613159846",
+    "company": "Müller AG",
+    "name": "Felix Neumann",
     "act": "10.11.22",
     "broker": "TopBroker",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491613159846"
   },
   {
     "date": "15.11.22",
@@ -2033,11 +2202,12 @@
     "objectId": 5475,
     "type": "Agent",
     "company": "Klein & Partner",
-    "name": "Peter Plag+491597345008",
+    "name": "Peter Plag",
     "act": "13.09.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491597345008"
   },
   {
     "date": "21.04.22",
@@ -2045,11 +2215,12 @@
     "objectId": 5888,
     "type": "Consultant",
     "company": "Klein & Partner",
-    "name": "Mia M\u00fcller+491774278817",
+    "name": "Mia Müller",
     "act": "19.04.23",
     "broker": "Prime",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491774278817"
   },
   {
     "date": "11.06.22",
@@ -2057,11 +2228,12 @@
     "objectId": 5293,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491609767445",
+    "name": "Mathias Schiewer",
     "act": "21.06.22",
     "broker": "Prime",
     "status": "In Progress",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491609767445"
   },
   {
     "date": "07.09.22",
@@ -2069,11 +2241,12 @@
     "objectId": 5426,
     "type": "Representative",
     "company": "Dominik Eisenhardt",
-    "name": "Mathias Schiewer+491570411329",
+    "name": "Mathias Schiewer",
     "act": "07.05.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491570411329"
   },
   {
     "date": "10.06.22",
@@ -2081,11 +2254,12 @@
     "objectId": 5917,
     "type": "Agent",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491524985696",
+    "name": "Lukas Braun",
     "act": "04.10.22",
     "broker": "SecureLine",
     "status": "Pending",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491524985696"
   },
   {
     "date": "25.01.22",
@@ -2093,11 +2267,12 @@
     "objectId": 5318,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Mia M\u00fcller+491603022548",
+    "name": "Mia Müller",
     "act": "22.05.22",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491603022548"
   },
   {
     "date": "26.01.23",
@@ -2105,11 +2280,12 @@
     "objectId": 5438,
     "type": "Salesperson",
     "company": "Schneider GmbH",
-    "name": "Anna Schmidt+491674219920",
+    "name": "Anna Schmidt",
     "act": "20.07.22",
     "broker": "TopBroker",
     "status": "Pending",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491674219920"
   },
   {
     "date": "29.12.22",
@@ -2117,23 +2293,25 @@
     "objectId": 5348,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Mathias Schiewer+491502182285",
+    "name": "Mathias Schiewer",
     "act": "25.02.22",
     "broker": "SecureLine",
     "status": "Completed",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491502182285"
   },
   {
     "date": "28.02.22",
     "leadId": 178,
     "objectId": 5614,
     "type": "Representative",
-    "company": "M\u00fcller AG",
-    "name": "Felix Neumann+491741602308",
+    "company": "Müller AG",
+    "name": "Felix Neumann",
     "act": "22.09.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491741602308"
   },
   {
     "date": "28.04.22",
@@ -2141,11 +2319,12 @@
     "objectId": 5486,
     "type": "Representative",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491601455651",
+    "name": "Anna Schmidt",
     "act": "11.02.22",
     "broker": "TrustCorp",
     "status": "In Progress",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491601455651"
   },
   {
     "date": "27.07.22",
@@ -2153,11 +2332,12 @@
     "objectId": 5242,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Lukas Braun+491722142455",
+    "name": "Lukas Braun",
     "act": "21.04.22",
     "broker": "Prime",
     "status": "Pending",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491722142455"
   },
   {
     "date": "04.07.22",
@@ -2165,11 +2345,12 @@
     "objectId": 5312,
     "type": "Salesperson",
     "company": "Schneider GmbH",
-    "name": "Felix Neumann+491645356603",
+    "name": "Felix Neumann",
     "act": "30.10.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491645356603"
   },
   {
     "date": "28.06.22",
@@ -2177,11 +2358,12 @@
     "objectId": 5674,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mathias Schiewer+491539096481",
+    "name": "Mathias Schiewer",
     "act": "11.11.22",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491539096481"
   },
   {
     "date": "01.09.22",
@@ -2189,23 +2371,25 @@
     "objectId": 5679,
     "type": "Consultant",
     "company": "Vogel Industries",
-    "name": "Felix Neumann+491709112117",
+    "name": "Felix Neumann",
     "act": "12.03.22",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491709112117"
   },
   {
     "date": "04.03.23",
     "leadId": 184,
     "objectId": 5741,
     "type": "Agent",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491634915267",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "08.09.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491634915267"
   },
   {
     "date": "17.08.22",
@@ -2213,11 +2397,12 @@
     "objectId": 5516,
     "type": "Consultant",
     "company": "Dominik Eisenhardt",
-    "name": "Mia M\u00fcller+491621313559",
+    "name": "Mia Müller",
     "act": "10.09.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491621313559"
   },
   {
     "date": "23.10.22",
@@ -2225,35 +2410,38 @@
     "objectId": 5018,
     "type": "Salesperson",
     "company": "Dominik Eisenhardt",
-    "name": "Mia M\u00fcller+491609245559",
+    "name": "Mia Müller",
     "act": "31.03.23",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491609245559"
   },
   {
     "date": "01.05.23",
     "leadId": 187,
     "objectId": 5195,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Felix Neumann+491793271563",
+    "company": "Müller AG",
+    "name": "Felix Neumann",
     "act": "22.03.22",
     "broker": "TrustCorp",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491793271563"
   },
   {
     "date": "18.01.22",
     "leadId": 188,
     "objectId": 5825,
     "type": "Consultant",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491611465679",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "27.11.22",
     "broker": "SecureLine",
     "status": "new",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491611465679"
   },
   {
     "date": "10.02.22",
@@ -2261,11 +2449,12 @@
     "objectId": 5270,
     "type": "Representative",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491554134217",
+    "name": "Lukas Braun",
     "act": "24.11.22",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491554134217"
   },
   {
     "date": "07.06.22",
@@ -2273,11 +2462,12 @@
     "objectId": 5775,
     "type": "Salesperson",
     "company": "Vogel Industries",
-    "name": "Mathias Schiewer+491772195476",
+    "name": "Mathias Schiewer",
     "act": "06.03.22",
     "broker": "Prime",
     "status": "new",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491772195476"
   },
   {
     "date": "16.10.22",
@@ -2285,11 +2475,12 @@
     "objectId": 5711,
     "type": "Consultant",
     "company": "Klein & Partner",
-    "name": "Mathias Schiewer+491790487592",
+    "name": "Mathias Schiewer",
     "act": "18.04.23",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491790487592"
   },
   {
     "date": "11.10.22",
@@ -2297,23 +2488,25 @@
     "objectId": 5132,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Peter Plag+491740680164",
+    "name": "Peter Plag",
     "act": "15.11.22",
     "broker": "SecureLine",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491740680164"
   },
   {
     "date": "01.02.23",
     "leadId": 193,
     "objectId": 5461,
     "type": "Salesperson",
-    "company": "M\u00fcller AG",
-    "name": "Mathias Schiewer+491513402760",
+    "company": "Müller AG",
+    "name": "Mathias Schiewer",
     "act": "02.01.22",
     "broker": "Prime",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491513402760"
   },
   {
     "date": "16.04.23",
@@ -2321,11 +2514,12 @@
     "objectId": 5326,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Lukas Braun+491770817118",
+    "name": "Lukas Braun",
     "act": "05.05.22",
     "broker": "TopBroker",
     "status": "Closed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491770817118"
   },
   {
     "date": "29.01.23",
@@ -2333,11 +2527,12 @@
     "objectId": 5034,
     "type": "Salesperson",
     "company": "Klein & Partner",
-    "name": "Mathias Schiewer+491682984347",
+    "name": "Mathias Schiewer",
     "act": "18.04.22",
     "broker": "Elite",
     "status": "new",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491682984347"
   },
   {
     "date": "05.11.22",
@@ -2345,11 +2540,12 @@
     "objectId": 5028,
     "type": "Agent",
     "company": "Dominik Eisenhardt",
-    "name": "Mathias Schiewer+491549689728",
+    "name": "Mathias Schiewer",
     "act": "18.11.22",
     "broker": "Elite",
     "status": "Closed",
-    "subscription": "Basic"
+    "subscription": "Basic",
+    "phone": "+491549689728"
   },
   {
     "date": "29.03.22",
@@ -2357,11 +2553,12 @@
     "objectId": 5518,
     "type": "Representative",
     "company": "Dominik Eisenhardt",
-    "name": "Anna Schmidt+491536621898",
+    "name": "Anna Schmidt",
     "act": "17.08.22",
     "broker": "TopBroker",
     "status": "Completed",
-    "subscription": "Premium"
+    "subscription": "Premium",
+    "phone": "+491536621898"
   },
   {
     "date": "19.09.22",
@@ -2369,11 +2566,12 @@
     "objectId": 5749,
     "type": "Agent",
     "company": "Schneider GmbH",
-    "name": "Felix Neumann+491718832451",
+    "name": "Felix Neumann",
     "act": "27.07.22",
     "broker": "SecureLine",
     "status": "In Progress",
-    "subscription": "Enterprise"
+    "subscription": "Enterprise",
+    "phone": "+491718832451"
   },
   {
     "date": "27.08.22",
@@ -2381,11 +2579,12 @@
     "objectId": 5308,
     "type": "Consultant",
     "company": "Schneider GmbH",
-    "name": "Mathias Schiewer+491601447653",
+    "name": "Mathias Schiewer",
     "act": "03.10.22",
     "broker": "Elite",
     "status": "Completed",
-    "subscription": "Standard"
+    "subscription": "Standard",
+    "phone": "+491601447653"
   },
   {
     "date": "24.07.22",
@@ -2393,10 +2592,11 @@
     "objectId": 5385,
     "type": "Representative",
     "company": "Vogel Industries",
-    "name": "Lukas Braun+491699637297",
+    "name": "Lukas Braun",
     "act": "15.02.22",
     "broker": "Elite",
     "status": "In Progress",
-    "subscription": "Prepaid"
+    "subscription": "Prepaid",
+    "phone": "+491699637297"
   }
 ]
